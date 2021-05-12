@@ -13,7 +13,7 @@
     "axios": "^0.16.2",
     "fingerprintjs": "^0.5.3",
     "http-server": "^0.12.0",
-    "swiper": "^5.2.1",
+    "swiper": "^6.5.1",
     "vconsole": "^3.3.0",
     "vue": "^2.5.2",
     "vue-awesome-swiper": "^3.1.3",
